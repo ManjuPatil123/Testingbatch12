@@ -15,6 +15,10 @@ public class Demo1
 	{
 		System.out.println("Hello This is M3");
 	}
+	public void m4()
+	{
+		System.out.println("Hello This is M4");
+	}
 	public static void main(String args[])
 	{
 		System.out.println("Hello Git");
